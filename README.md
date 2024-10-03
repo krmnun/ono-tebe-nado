@@ -1,1 +1,1 @@
-https://github.com/krmnun/ono-tebe-nado1
+https://github.com/krmnun/ono-tebe-nado
