@@ -40,12 +40,11 @@
     display: block;
     width: 137px;
     height: 108px;
-    margin-left: 44px;
 
 }
 
 .address {
-    max-width: 238px;
+    max-width: 236px;
     font-weight: 400;
     font-size: 18px;
     font-style: normal;
@@ -124,7 +123,7 @@
     text-transform: uppercase;
     justify-self: end;
     align-self: center;
-    word-spacing: 14px;
+    word-spacing: 13px;
 }
 
 .bet-button {
@@ -175,6 +174,7 @@
     flex-direction: column;
     justify-content: space-between;
     position: relative;
+    background-size: cover;
     background-position: center;
 
 }
